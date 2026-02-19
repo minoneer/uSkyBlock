@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uskyblock-revived\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-01-19 17:30\n"
+"PO-Revision-Date: 2026-02-19 10:12\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/challenge/ChallengeLogic.java:451
 #, java-format
 msgid " §4{0} §b{1}"
-msgstr ""
+msgstr " §4{0} §b{1}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/block/BlockCollection.java:34
 #, java-format
@@ -28,7 +28,7 @@ msgstr ""
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/task/PurgeTask.java:35
 msgid "- PURGING: {0,number,##}% ({1}/{2}), elapsed {3}, estimated completion ~{4}"
@@ -379,7 +379,7 @@ msgstr ""
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/AdminCommand.java:86
 msgid "Ultimate SkyBlock Admin"
-msgstr ""
+msgstr "Ultimate SkyBlock Admin"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/task/CreateIslandTask.java:37
 #, java-format
@@ -473,7 +473,7 @@ msgstr "aceptar/rechazar una invitación."
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "act"
-msgstr ""
+msgstr "act"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/PerkCommand.java:57
 #, java-format
@@ -586,7 +586,7 @@ msgstr "crear una isla"
 
 #: bukkit-utils/src/main/java/dk/lockfuglsang/minecraft/util/TimeUtil.java:43
 msgid "d"
-msgstr ""
+msgstr "d"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/AdminIslandCommand.java:38
 msgid "delete the island (removes the blocks)"
@@ -646,7 +646,7 @@ msgstr "comando de isla general"
 
 #: bukkit-utils/src/main/java/dk/lockfuglsang/minecraft/util/TimeUtil.java:46
 msgid "h"
-msgstr ""
+msgstr "h"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/RegionCommand.java:157
 msgid "hides the regions again"
@@ -724,7 +724,7 @@ msgstr "bloquea tu isla a los no miembros de tu grupo"
 
 #: bukkit-utils/src/main/java/dk/lockfuglsang/minecraft/util/TimeUtil.java:49
 msgid "m"
-msgstr ""
+msgstr "m"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/AdminIslandCommand.java:30
 msgid "manage islands"
@@ -744,7 +744,7 @@ msgstr "ms/trabajo"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "ms/tick"
-msgstr ""
+msgstr "ms/tick"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "name"
@@ -824,7 +824,7 @@ msgstr "reinicia el cooldown en el comando"
 
 #: bukkit-utils/src/main/java/dk/lockfuglsang/minecraft/util/TimeUtil.java:52
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #: bukkit-utils/src/main/java/dk/lockfuglsang/minecraft/command/DocumentCommand.java:32
 msgid "saves documentation of the commands to a file"
@@ -957,7 +957,7 @@ msgstr ""
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "ticks"
-msgstr ""
+msgstr "ticks"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "time"
@@ -1044,13 +1044,13 @@ msgstr ""
 
 #: bukkit-utils/src/main/java/dk/lockfuglsang/minecraft/util/TimeUtil.java:61
 msgid "{0,number,0}:{1,number,00}.{2,number,000}"
-msgstr ""
+msgstr "{0,number,0}:{1,number,00}.{2,number,000}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:123
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:125
 #, java-format
 msgid "{0} <{1}>"
-msgstr ""
+msgstr "{0} <{1}>"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/BiomeCommand.java:118
 #, java-format
@@ -1656,7 +1656,7 @@ msgstr "§4¡Tu isla tiene que ser nivel {0} para completar este reto!"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/challenge/ChallengeLogic.java:331
 #, java-format
 msgid "§4{0}"
-msgstr ""
+msgstr "§4{0}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/KickCommand.java:67
 #, java-format
@@ -1757,7 +1757,7 @@ msgstr ""
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:32
 msgid "§7----------------"
-msgstr ""
+msgstr "§7----------------"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/challenge/Rank.java:79
 #, java-format
@@ -1919,11 +1919,11 @@ msgstr "§9¡{0}§1 ha completado el reto {1}!"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/IslandInfo.java:964
 #, java-format
 msgid "§9{1} §7- {0}"
-msgstr ""
+msgstr "§9{1} §7- {0}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/IslandLogic.java:267
 msgid "§a#%2d §7(%5.2f): §e%s §7%s"
-msgstr ""
+msgstr "§a#%2d §7(%5.2f): §e%s §7%s"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:420
 msgid "§aClick to create!"
@@ -2038,7 +2038,7 @@ msgstr "§a{0} confió en {1} para construir en la isla"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:97
 #, java-format
 msgid "§a{0} §c{1}"
-msgstr ""
+msgstr "§a{0} §c{1}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:480
 msgid "§a§lChallenges"
@@ -2539,7 +2539,7 @@ msgstr "§eClick aquí para mostrar la página anterior"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:93
 msgid "§eCmd Cooldown"
-msgstr ""
+msgstr "§eCmd Cooldown"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/task/ProtectAllTask.java:86
 #, java-format
