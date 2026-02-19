@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uskyblock-revived\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-01-19 17:30\n"
+"PO-Revision-Date: 2026-02-19 10:12\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -41,7 +41,7 @@ msgstr "ANIMAUX"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/biome/BiomeGui.java:74
 #, java-format
 msgid "Biome: {0}"
-msgstr "Biome : {0}"
+msgstr "Biome: {0}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/chat/ChatLogic.java:34
 msgid "But you are ALLLLLLL ALOOOOONE!"
@@ -1926,7 +1926,7 @@ msgstr "§9La patience et le temps sont les deux plus puissants guerriers."
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/handler/ConfirmHandler.java:64
 #, java-format
 msgid "§9{0}§7 timed out"
-msgstr "§9{0}§7 a expiré"
+msgstr "§9{0}§7 timed out"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/challenge/ChallengeLogic.java:491
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/player/PlayerInfo.java:185
