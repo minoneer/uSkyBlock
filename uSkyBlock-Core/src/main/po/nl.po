@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uskyblock-revived\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-01-19 17:30\n"
+"PO-Revision-Date: 2026-02-19 10:12\n"
 "Last-Translator: \n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -36,7 +36,7 @@ msgstr "- PURGING: {0,number,##}% ({1}/{2}), verstreken {3}, Naar schatting volt
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/LimitLogic.java:38
 msgid "ANIMAL"
-msgstr "DIER"
+msgstr "ANIMAL"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/biome/BiomeGui.java:74
 #, java-format
@@ -217,7 +217,7 @@ msgstr "Eiland Herstart Menu"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:93
 msgid "Kick Players"
-msgstr "Spelers kicken"
+msgstr "Kick Players"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:207
 msgid "Leader"
@@ -249,7 +249,7 @@ msgstr "Lid"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/handler/placeholder/PlaceholderReplacerImpl.java:101
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/handler/placeholder/PlaceholderReplacerImpl.java:157
 msgid "N/A"
-msgstr "N.v.t."
+msgstr "N/A"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:47
 #, java-format
@@ -322,7 +322,7 @@ msgstr "Score van het aantal blokken"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:84
 msgid "Set Island Warp"
-msgstr "Stel eiland-warp in"
+msgstr "Set Island Warp"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/util/LocationUtil.java:39
 msgid "South"
@@ -387,7 +387,7 @@ msgstr "ONBEKEND"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/AdminCommand.java:86
 msgid "Ultimate SkyBlock Admin"
-msgstr "Ultimate SkyBlock Beheer"
+msgstr "Ultimate SkyBlock Admin"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/task/CreateIslandTask.java:37
 #, java-format
@@ -400,7 +400,7 @@ msgstr "Gebruik §9/is h§r of het §9/is§r menu om naar je eiland te gaan."
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/LimitLogic.java:40
 msgid "VILLAGER"
-msgstr "DORPSBEWONER"
+msgstr "VILLAGER"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:481
 msgid "View a list of §9challenges that\n"
@@ -488,7 +488,7 @@ msgstr "accepteren/weiger een uitnodiging."
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "act"
-msgstr "actie"
+msgstr "act"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/PerkCommand.java:57
 #, java-format
@@ -1913,7 +1913,7 @@ msgstr "§9Speler Permissions"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/LevelCommand.java:74
 #, java-format
 msgid "§9Rank is {0}"
-msgstr "§9Rang is {0}"
+msgstr "§9Rank is {0}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/LanguageCommand.java:54
 msgid "§9Supported Languages:\n"
@@ -2574,7 +2574,7 @@ msgstr "§eDe Configuratie is herladen"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/imports/USBImporterExecutor.java:130
 #, java-format
 msgid "§eConverted {0}/{1} files in {2}"
-msgstr "§eGeconverteerd {0}/{1} bestanden in {2}"
+msgstr "§eConverted {0}/{1} files in {2}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/challenge/ChallengeLogic.java:506
 msgid "§eCurrency reward: §f{0,number,###.##} {1} §a ({2,number,##.##})%"
