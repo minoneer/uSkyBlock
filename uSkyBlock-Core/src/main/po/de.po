@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uskyblock-revived\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-01-19 17:30\n"
+"PO-Revision-Date: 2026-02-19 10:12\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -32,7 +32,7 @@ msgstr "#"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/task/PurgeTask.java:35
 msgid "- PURGING: {0,number,##}% ({1}/{2}), elapsed {3}, estimated completion ~{4}"
-msgstr "- SÄUBERT: {0,number,##}% ({1}/{2}), verstrichen {3}, geschätzte Fertigstellung ~{4}"
+msgstr "- SÄUBERT: {0,number,##}% ({1}/{2}), verstrichen {3}, geschätzte Vervollständigung ~{4}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/LimitLogic.java:38
 msgid "ANIMAL"
@@ -49,15 +49,15 @@ msgstr "Du bist ALLLLLEEEEEEIIIIINE!"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/chat/ChatLogic.java:37
 msgid "But you are Talking to your self!"
-msgstr "Aber du sprichst mit dir selbst!"
+msgstr "Du sprichst mit dir selber...!"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/chat/ChatLogic.java:35
 msgid "But you are Yelling in the wind!"
-msgstr "Aber du rufst in den Wind!"
+msgstr "Aber du rufst dem Wind entgegen!"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/chat/ChatLogic.java:36
 msgid "But your fantasy friends are gone!"
-msgstr "Aber deine Fantasiefreunde sind weg!"
+msgstr "Deine Fantasiefreunde sind weg!"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/LimitLogic.java:42
 msgid "COPPER_GOLEM"
@@ -77,7 +77,7 @@ msgstr "Kann nicht {0}"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:340
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:664
 msgid "Challenge Menu"
-msgstr "Aufgabenmenü"
+msgstr "Aufgaben Menü"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:80
 msgid "Change Biome"
@@ -276,7 +276,7 @@ msgstr "Besitzer: {0}"
 
 #: bukkit-utils/src/main/java/dk/lockfuglsang/minecraft/command/PlainTextCommandVisitor.java:50
 msgid "Permission"
-msgstr "Berechtigung"
+msgstr "Permission"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:123
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:125
@@ -486,7 +486,7 @@ msgstr "An/-ablehnen einer Einladung."
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "act"
-msgstr "handeln"
+msgstr "act"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/PerkCommand.java:57
 #, java-format
@@ -972,7 +972,7 @@ msgstr "teleportiert Dich zu Deiner Insel (oder erstellt eine)"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "ticks"
-msgstr "Ticks"
+msgstr "ticks"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "time"
@@ -984,7 +984,7 @@ msgstr "um diesen Rang freizuschalten"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/DebugCommand.java:53
 msgid "toggle debug-logging"
-msgstr "Debug-Logging umschalten"
+msgstr "toggle debug-logging"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:83
 msgid "toggle the island''s lock."
@@ -1087,7 +1087,7 @@ msgstr "{0} hat versucht die Insel zu übernehmen!"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/event/WitherTagEvents.java:34
 #, java-format
 msgid "{0}''s Wither"
-msgstr "{0}'s Wither"
+msgstr "{0}''s Wither"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/InviteHandler.java:79
 #, java-format
@@ -2559,7 +2559,7 @@ msgstr "§eKlicke hier, um zur vorherigen Seite zu gelangen."
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:93
 msgid "§eCmd Cooldown"
-msgstr "§eBefehls-Abklingzeit"
+msgstr "§eCmd Cooldown"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/task/ProtectAllTask.java:86
 #, java-format
@@ -2769,7 +2769,7 @@ msgstr "§eKeine ausstehenden Einladungen"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/OrphanCommand.java:54
 #, java-format
 msgid "§eOrphans ({0}/{1}): {2}"
-msgstr "§eWaisen ({0}/{1}): {2}"
+msgstr "§eOrphans ({0}/{1}): {2}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/PermCommand.java:30
 #, java-format
@@ -3204,7 +3204,7 @@ msgstr "§fdiesem Rang, um den nächsten Rang freizuschalten."
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/LanguageCommand.java:61
 #, java-format
 msgid "§f{0} §7{1} §9 by {2} §7{3}\n"
-msgstr "§f{0} §7{1} §9 von {2} §7{3}\n"
+msgstr "§f{0} §7{1} §9 by {2} §7{3}\n"
 
 #: bukkit-utils/src/main/java/dk/lockfuglsang/minecraft/util/ItemStackUtil.java:184
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/challenge/ChallengeFormat.java:40
