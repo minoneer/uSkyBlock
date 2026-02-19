@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uskyblock-revived\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-01-19 17:30\n"
+"PO-Revision-Date: 2026-02-19 10:12\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -28,7 +28,7 @@ msgstr ""
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/JobsCommand.java:37
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/task/PurgeTask.java:35
 msgid "- PURGING: {0,number,##}% ({1}/{2}), elapsed {3}, estimated completion ~{4}"
@@ -90,7 +90,7 @@ msgstr "Изменить биом острова"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:45
 #, java-format
 msgid "Cleared cooldown on {0} for {1}"
-msgstr ""
+msgstr "Cleared cooldown on {0} for {1}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:160
 msgid "Click here to grant this permission."
@@ -110,7 +110,7 @@ msgstr ""
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:31
 msgid "Controls player-cooldowns"
-msgstr ""
+msgstr "Controls player-cooldowns"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/uSkyBlock.java:526
 msgid "Could not create your Island. Please contact a server moderator."
@@ -247,12 +247,12 @@ msgstr "Участник"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/handler/placeholder/PlaceholderReplacerImpl.java:101
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/handler/placeholder/PlaceholderReplacerImpl.java:157
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:47
 #, java-format
 msgid "No active cooldown on {0} for {1} detected!"
-msgstr ""
+msgstr "No active cooldown on {0} for {1} detected!"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/util/LocationUtil.java:35
 msgid "North"
@@ -312,7 +312,7 @@ msgstr ""
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/InfoCommand.java:90
 msgid "Score Count Block"
-msgstr ""
+msgstr "Score Count Block"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:84
 msgid "Set Island Warp"
@@ -378,7 +378,7 @@ msgstr ""
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/AdminCommand.java:86
 msgid "Ultimate SkyBlock Admin"
-msgstr ""
+msgstr "Ultimate SkyBlock Admin"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/task/CreateIslandTask.java:37
 #, java-format
@@ -557,7 +557,7 @@ msgstr "очистить сирот"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:32
 msgid "clears the cooldown on a command (* = all)"
-msgstr ""
+msgstr "clears the cooldown on a command (* = all)"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/AdminChallengeCommand.java:71
 msgid "complete all challenges in the rank"
@@ -701,7 +701,7 @@ msgstr "список сирот"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:78
 msgid "lists all the active cooldowns"
-msgstr ""
+msgstr "lists all the active cooldowns"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/ChunkCommand.java:41
 msgid "load current chunk"
@@ -1049,7 +1049,7 @@ msgstr ""
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:125
 #, java-format
 msgid "{0} <{1}>"
-msgstr ""
+msgstr "{0} <{1}>"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/BiomeCommand.java:118
 #, java-format
@@ -1655,7 +1655,7 @@ msgstr "§4Для завершения задания остров должен 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/challenge/ChallengeLogic.java:331
 #, java-format
 msgid "§4{0}"
-msgstr ""
+msgstr "§4{0}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/KickCommand.java:67
 #, java-format
@@ -1918,11 +1918,11 @@ msgstr "§9 {0} §f завершил § 9 {1} §f вызов!"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/IslandInfo.java:964
 #, java-format
 msgid "§9{1} §7- {0}"
-msgstr ""
+msgstr "§9{1} §7- {0}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/IslandLogic.java:267
 msgid "§a#%2d §7(%5.2f): §e%s §7%s"
-msgstr ""
+msgstr "§a#%2d §7(%5.2f): §e%s §7%s"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:420
 msgid "§aClick to create!"
@@ -2037,7 +2037,7 @@ msgstr "§a {0} доверенный {1} на острове"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:97
 #, java-format
 msgid "§a{0} §c{1}"
-msgstr ""
+msgstr "§a{0} §c{1}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:480
 msgid "§a§lChallenges"
@@ -2271,7 +2271,7 @@ msgstr ""
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/IslandInfo.java:1084
 #, java-format
 msgid "§cSKY §f> §7 {0}"
-msgstr ""
+msgstr "§cSKY §f> §7 {0}"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/AdminIslandCommand.java:174
 #, java-format
@@ -2538,7 +2538,7 @@ msgstr "§eНажмите для просмотра предыдущей стр�
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:93
 msgid "§eCmd Cooldown"
-msgstr ""
+msgstr "§eCmd Cooldown"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/task/ProtectAllTask.java:86
 #, java-format
@@ -2715,7 +2715,7 @@ msgstr "§eВНИМАНИЕ: Ваш остров и все ваши вещи б�
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:100
 #, java-format
 msgid "§eNo active cooldowns for §9{0}§e found."
-msgstr ""
+msgstr "§eNo active cooldowns for §9{0}§e found."
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/RegionCommand.java:165
 msgid "§eNo currently shown regions for this player"
@@ -2781,7 +2781,7 @@ msgstr "§eСброс чанков в клиенте"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/CooldownCommand.java:70
 #, java-format
 msgid "§eReset cooldown on {0} for {1}§e to {2} seconds"
-msgstr ""
+msgstr "§eReset cooldown on {0} for {1}§e to {2} seconds"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/event/ExploitEvents.java:104
 msgid "§eRiding is only allowed on your own island!"
@@ -3177,7 +3177,7 @@ msgstr "§fэто звание разблокировало следующее."
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/LanguageCommand.java:61
 #, java-format
 msgid "§f{0} §7{1} §9 by {2} §7{3}\n"
-msgstr ""
+msgstr "§f{0} §7{1} §9 by {2} §7{3}\n"
 
 #: bukkit-utils/src/main/java/dk/lockfuglsang/minecraft/util/ItemStackUtil.java:184
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/challenge/ChallengeFormat.java:40
