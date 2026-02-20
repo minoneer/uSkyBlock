@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uskyblock-revived\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-02-20 00:58\n"
+"PO-Revision-Date: 2026-02-20 02:23\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -61,7 +61,7 @@ msgstr "Deine Fantasiefreunde sind weg!"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/island/LimitLogic.java:42
 msgid "COPPER_GOLEM"
-msgstr "KUPFER_GOLEM"
+msgstr "Kupfergolem"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/menu/SkyBlockMenu.java:213
 #, java-format
@@ -551,7 +551,7 @@ msgstr "ändert das Insel Biom"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/PermCommand.java:22
 msgid "changes a members island-permissions"
-msgstr "Ändert die Insel-Berechtigungen eines Mitglieds"
+msgstr "ändert die Inselberechtigungen eines Mitglieds"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/LanguageCommand.java:29
 msgid "changes the language of the plugin, and reloads"
@@ -627,7 +627,7 @@ msgstr "Aktiviere/Deaktiviere Warping zu deiner Insel."
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/TopCommand.java:21
 msgid "enables user to all-ways generate top-ten (no caching)"
-msgstr "Ermöglicht dem Nutzer, die Top-10 immer neu zu generieren (kein Caching)"
+msgstr "ermöglicht dem Nutzer, die Top-10 immer neu zu generieren (ohne Caching)"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/BiomeCommand.java:39
 msgid "exempt player from biome-cooldown"
@@ -840,7 +840,7 @@ msgstr "s"
 
 #: bukkit-utils/src/main/java/dk/lockfuglsang/minecraft/command/DocumentCommand.java:32
 msgid "saves documentation of the commands to a file"
-msgstr "Speichert die Dokumentation der Befehle in eine Datei"
+msgstr "speichert die Dokumentation der Befehle in einer Datei"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/RegisterIslandToPlayerCommand.java:21
 msgid "set a player''s island to your location"
@@ -930,7 +930,7 @@ msgstr "zeigt die Grenzen von den äußeren Chunks"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/ItemInfoCommand.java:24
 msgid "shows the component format for the currently held item"
-msgstr "Zeigt das Komponentenformat für das aktuell gehaltene Item"
+msgstr "zeigt das Komponentenformat für das aktuell gehaltene Item"
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/admin/RegionCommand.java:108
 msgid "shows the non-chunk-aligned borders"
@@ -1816,7 +1816,7 @@ msgstr "§7Teleport abgebrochen"
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/BiomeCommand.java:104
 #, java-format
 msgid "§7The pixies are busy changing the biome in your current chunk to §9{0}§7, be patient."
-msgstr "§7Die Pixies sind beschäftigt, das Biom in deinem aktuellen Chunk zu §9{0}§7 zu ändern, hab Geduld."
+msgstr "§7Das Biom deiner Insel wird zu §9{0}§7 geändert, habe ein wenig Geduld."
 
 #: uSkyBlock-Core/src/main/java/us/talabrek/ultimateskyblock/command/island/BiomeCommand.java:98
 #, java-format
